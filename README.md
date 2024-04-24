@@ -1,4 +1,4 @@
-# flutter_application_2
+# mobile-products
 
 A new Flutter project.
 
